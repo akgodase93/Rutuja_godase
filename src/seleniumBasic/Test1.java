@@ -5,6 +5,7 @@ public class Test1 {
 	public static void main(String[] args) 
 	{
 		System.out.println("This is test class, to practice git ");
+		System.out.println("adding new line to merge PR using command line");
 	}
 
 }
